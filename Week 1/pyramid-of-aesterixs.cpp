@@ -20,7 +20,7 @@ int main(int argc, char *argv[]) {
 	            cout <<" ";
 	        }
 	        for(int x = 0; x <= i; x++)
-	        {
+	        {§
 	            cout << "*";
 	        }
 	        k--;
