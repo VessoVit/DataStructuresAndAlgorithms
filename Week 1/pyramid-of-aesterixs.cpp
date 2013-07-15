@@ -4,7 +4,7 @@
 
 using namespace std;
 int main(int argc, char *argv[]) {
-	int k = 11;
+	int k = 10;
 	    for (int i = 0; i < 10; i++)
 	    {
 	        for(int x = 0; x <= i; x++)
@@ -20,7 +20,7 @@ int main(int argc, char *argv[]) {
 	            cout <<" ";
 	        }
 	        for(int x = 0; x <= i; x++)
-	        {§
+	        {
 	            cout << "*";
 	        }
 	        k--;
