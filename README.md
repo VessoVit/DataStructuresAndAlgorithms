@@ -18,6 +18,13 @@ Week 1 - Basic Data Strcutres
 - recursion   
 ( *Nasted Loops* ) 
 
+
+Week 2 - Sorting Algorithms 
+
+- BubbleSort
+- InsertionSort
+- MergeSort
+
 ---
 
 //Todo
