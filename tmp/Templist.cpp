@@ -50,5 +50,6 @@ class queue
 
     a.pop();
     cout<<a.pop()<<" is Popped.. \n";
-
+    a.pop();
+    cout<<a.pop()<<" is Popped.. \n";
   }

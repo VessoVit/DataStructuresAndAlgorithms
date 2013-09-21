@@ -27,8 +27,20 @@ Week 2 - Sorting Algorithms
 
 ---
 
+Week 3 - Trees
+
+ - Maze Generator
+
+---
+
+Flocking
+
+*Require: OpenFrameworks*
+
+ - Boids 
+
 //Todo
 
 - Linked List
-- Trees
+- Trees (in progress)
 - Graphs
